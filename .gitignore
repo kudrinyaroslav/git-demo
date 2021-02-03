@@ -1,0 +1,4 @@
+*.log
+!error.log
+/TODO
+BUILD/
